@@ -1,0 +1,11 @@
+C:\Users\Avell\Desktop\ENTRA21\Curso Entra21\WF-Aula-FuncaMultiRetorno\bin\Debug\WF-Aula-FuncaMultiRetorno.exe.config
+C:\Users\Avell\Desktop\ENTRA21\Curso Entra21\WF-Aula-FuncaMultiRetorno\bin\Debug\WF-Aula-FuncaMultiRetorno.exe
+C:\Users\Avell\Desktop\ENTRA21\Curso Entra21\WF-Aula-FuncaMultiRetorno\bin\Debug\WF-Aula-FuncaMultiRetorno.pdb
+C:\Users\Avell\Desktop\ENTRA21\Curso Entra21\WF-Aula-FuncaMultiRetorno\obj\Debug\WF-Aula-FuncaMultiRetorno.csprojAssemblyReference.cache
+C:\Users\Avell\Desktop\ENTRA21\Curso Entra21\WF-Aula-FuncaMultiRetorno\obj\Debug\WF_Aula_FuncaMultiRetorno.Exec03.resources
+C:\Users\Avell\Desktop\ENTRA21\Curso Entra21\WF-Aula-FuncaMultiRetorno\obj\Debug\WF_Aula_FuncaMultiRetorno.Form1.resources
+C:\Users\Avell\Desktop\ENTRA21\Curso Entra21\WF-Aula-FuncaMultiRetorno\obj\Debug\WF_Aula_FuncaMultiRetorno.Properties.Resources.resources
+C:\Users\Avell\Desktop\ENTRA21\Curso Entra21\WF-Aula-FuncaMultiRetorno\obj\Debug\WF-Aula-FuncaMultiRetorno.csproj.GenerateResource.cache
+C:\Users\Avell\Desktop\ENTRA21\Curso Entra21\WF-Aula-FuncaMultiRetorno\obj\Debug\WF-Aula-FuncaMultiRetorno.csproj.CoreCompileInputs.cache
+C:\Users\Avell\Desktop\ENTRA21\Curso Entra21\WF-Aula-FuncaMultiRetorno\obj\Debug\WF-Aula-FuncaMultiRetorno.exe
+C:\Users\Avell\Desktop\ENTRA21\Curso Entra21\WF-Aula-FuncaMultiRetorno\obj\Debug\WF-Aula-FuncaMultiRetorno.pdb
