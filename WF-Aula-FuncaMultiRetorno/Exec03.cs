@@ -22,6 +22,9 @@ namespace WF_Aula_FuncaMultiRetorno
         {
             AtualizaDG();
         }
+        /// <summary>
+        /// Atualiza dg dos valores  meses ja calculados
+        /// </summary>
         private void AtualizaDG()
         {
             List<string[]> list = DBFunction.GenericSelectAll("Historico");
